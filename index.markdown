@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+# Focus on writing good documentation
+Focus on writing good documentation
