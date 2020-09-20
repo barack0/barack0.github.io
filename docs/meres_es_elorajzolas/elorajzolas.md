@@ -2,6 +2,8 @@
 layout: default
 title: Mérés és előrajzolás
 nav_order: 2
+has_children: true
+permalink: /docs/meres_es_elorajzolas
 ---
 # Mérés és előrajzolás
 
