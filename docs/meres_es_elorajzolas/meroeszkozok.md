@@ -11,5 +11,7 @@ A rajztű anyaga acél, de készülhet sárgarézből is (egyenletlen felületek
 Előrajzoláshoz a felületet elő kell készíteni, hogy a karcolás látható legyen. Először megtisztítjuk a mechanikai szennyeződéstől, portól, rozsdától. E célra drótseprűt, kefét, ecsetet használunk. A felület bevonására többféle anyag alkalmas. Legegyszerűbb a megtisztított felületet krétával, nagyobb felületet meszes vízzel bevonni. Száradás után a pontozás, a bekarcolt vonal jól látható rajta.
 
 ![acélvonalzó](/img/vonalzo.svg)
-<center>Acélvonalzó
-{: .label }</center>
+<p align="center">
+Acélvonalzó
+{: .label }
+</p>
