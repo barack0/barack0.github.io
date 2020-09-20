@@ -9,4 +9,4 @@ nav_order: 1
 Előrajzoláskor leggyakrabban acélvonalzókat, merev- és állítható szögmérőket, körzőket, sablonokat, rajztűket, pontozókat használunk.
 A rajztű anyaga acél, de készülhet sárgarézből is (egyenletlen felületekre való rajzolásra használják). Alumínium és cinklemezre puha ceruzával rajzolunk elő.
 Előrajzoláshoz a felületet elő kell készíteni, hogy a karcolás látható legyen. Először megtisztítjuk a mechanikai szennyeződéstől, portól, rozsdától. E célra drótseprűt, kefét, ecsetet használunk. A felület bevonására többféle anyag alkalmas. Legegyszerűbb a megtisztított felületet krétával, nagyobb felületet meszes vízzel bevonni. Száradás után a pontozás, a bekarcolt vonal jól látható rajta.
-![acélvonalzó](https://cdn.statically.io/img/barack.sk/vonalzo.svg)
+![acélvonalzó](https://cdn.statically.io/img/barack.sk/acelvonalzo.svg)
