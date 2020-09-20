@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Mérés és előrajzolás
 nav_order: 2
 ---
 # Mérés és előrajzolás
