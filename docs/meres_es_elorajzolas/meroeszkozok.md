@@ -11,3 +11,12 @@ A rajztű anyaga acél, de készülhet sárgarézből is (egyenletlen felületek
 Előrajzoláshoz a felületet elő kell készíteni, hogy a karcolás látható legyen. Először megtisztítjuk a mechanikai szennyeződéstől, portól, rozsdától. E célra drótseprűt, kefét, ecsetet használunk. A felület bevonására többféle anyag alkalmas. Legegyszerűbb a megtisztított felületet krétával, nagyobb felületet meszes vízzel bevonni. Száradás után a pontozás, a bekarcolt vonal jól látható rajta.
 
 ![acélvonalzó](/img/vonalzo.svg)
+**Acélvonalzó** -- hosszmértékek mérésére alkalmas. Acélból készült, merev
+kivitelű, milliméter beosztással ellátott mérőeszköz. A leolvasási
+pontossága kb. 0,5mm. Mindig ügyeljünk, hogy a mérési sík a felületre
+merőleges legyen.
+
+![mérőszalag](/img/meroszalag.svg =300x)
+**Mérőszalag** -- az 1-2m hosszú, hajlékony szalag acél- vagy műanyag tokba
+van tekercselve. Hosszabb szerkezetek mérésére való. Beosztása
+milliméteres. Leolvasási pontossága kb. 1mm.
