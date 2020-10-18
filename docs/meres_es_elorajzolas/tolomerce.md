@@ -24,17 +24,17 @@ Leolvasási pontossága a nóniusz-beosztásától függően lehet:
  4. mélységmérő
  5. nóniusz-skála
  
-#### Hogyan kell leolvasni a méretet a nóniusz-skála segítségével?
+### Hogyan kell leolvasni a méretet a nóniusz-skála segítségével?
 
 Ma már szinte csak véletlenül találkozunk 0,1 mm-es pontosságú tolómércével, de a nóniusz-beosztás ezen érthető meg a legkönnyebben, ezért ezzel kezdjük a tanulmányainkat. A 0,1mm leolvasási pontosságú nóniusz-beosztás úgy készül, hogy a főskála 9 mm hosszú szakaszát 10 egyenlő részre osztjuk. A nóniusz-skála egy osztása így 0,9 mm lesz, vagyis 0,1 mm-rel kisebb 1 mm-nél. Ha ennek a nóniusz-skálának a 0 osztása egy vonalba esik a főskála valamelyik beosztásával, akkor egész mm-t mérünk.
 
 Ha a nóniusz-skála első osztása esik egy vonalba a főskála valamelyik beosztásával, akkor a nóniusz 0 osztása és vele a tolómérce mozgó pofája 0,1 mm-rel eltolódott.
 
-![](img/noniusz_beosztas.png)
+![](/img/noniusz_beosztas.png)
 
 Először az egész mm-eket kell meghatározni. Ezt a nóniusz 0 beosztásától balra eső első egész szám adja. Példánkban 51mm:
 
-![](img/noniusz_beosztas1.png)
+![](/img/noniusz_beosztas1.png)
 
 A tized mm-eket pedig úgy kapjuk meg, hogy megkeressük, melyik nóniusz-beosztás esik egybe a főskála valamelyik beosztásával. Esetünkben ez a 0,6mm, tehát 0,6mm-t adunk még az egész számhoz. A teljes méret tehát 51+0,6=51,6mm.
 
