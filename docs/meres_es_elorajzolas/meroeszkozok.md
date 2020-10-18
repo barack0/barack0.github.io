@@ -16,7 +16,7 @@ kivitelű, milliméter beosztással ellátott mérőeszköz. A leolvasási
 pontossága kb. 0,5mm. Mindig ügyeljünk, hogy a mérési sík a felületre
 merőleges legyen.
 
-![mérőszalag](/img/meroszalag.svg =300x)
+![mérőszalag](/img/meroszalag.svg)
 **Mérőszalag** -- az 1-2m hosszú, hajlékony szalag acél- vagy műanyag tokba
 van tekercselve. Hosszabb szerkezetek mérésére való. Beosztása
 milliméteres. Leolvasási pontossága kb. 1mm.
